@@ -1,0 +1,30 @@
+.container4{
+     font-family:Verdana, Geneva, Tahoma, sans-serif;;
+    background-color: white;
+    text-align: center;
+    border: none;
+}
+.pprofile{
+    font-weight: 100px;
+    font-size:small; 
+    top:10px;
+    padding: 10px;  
+}
+.proh6{
+    font-size: 20px;
+}
+.profile img{
+    width: 125px;
+    height: 120px;
+    padding-top: -28px; 
+}
+.profile img:hover{
+    transform: scale(1.1);
+}
+.star img{
+    width: 75px;
+    height: 75px;
+}
+.start img:hover{
+    transform: scale(1.1);
+}
